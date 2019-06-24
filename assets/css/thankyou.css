@@ -130,9 +130,9 @@ h6 {
 
 p {
   color: #a0a0ba;
-  font-size: 13px;
+  font-size: 18px;
   font-weight: 400;
-  line-height: 22px;
+  line-height: 30px;
 }
 
 .lead {
@@ -1350,7 +1350,7 @@ label {
   font-size: 32px;
   font-weight: 600;
   line-height: 47px;
-  /*margin-bottom: 70px;*/
+  margin-top: 30px;
 }
 
 .heading .heading-desc {
@@ -2274,16 +2274,16 @@ label {
 }
 
 .pricing-panel.pricing-active {
-  -moz-box-shadow: 0 10px 35px rgba(0, 0, 0, 0.05);
+ /* -moz-box-shadow: 0 10px 35px rgba(0, 0, 0, 0.05);
   -webkit-box-shadow: 0 10px 35px rgba(0, 0, 0, 0.05);
   -ms-box-shadow: 0 10px 35px rgba(0, 0, 0, 0.05);
   -o-box-shadow: 0 10px 35px rgba(0, 0, 0, 0.05);
-  box-shadow: 0 10px 35px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 10px 35px rgba(0, 0, 0, 0.05);*/
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
   -o-border-radius: 6px;
   border-radius: 6px;
-  background-color: #ffffff;
+  background-color: #FAFAFF;
 }
 
 .pricing-panel:hover .btn:not(.btn--gradient) {
