@@ -44,11 +44,11 @@
       <feComposite operator="in" in2="blur-5"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <clipPath id="clip-Employees_View_Employees_">
+    <clipPath id="clip-Rovedana-employee-dashboard">
       <rect width="1794" height="2283"/>
     </clipPath>
   </defs>
-  <g id="Employees_View_Employees_" data-name="Employees (View Employees)" clip-path="url(#clip-Employees_View_Employees_)">
+  <g id="Rovedana-employee-dashboard" clip-path="url(#clip-Rovedana-employee-dashboard)">
     <rect width="1794" height="2283" fill="#fbfafa"/>
     <g id="Topbar" transform="translate(-126)">
       <rect id="Rectangle_1" data-name="Rectangle 1" width="1920" height="110" fill="#fff"/>
@@ -108,12 +108,12 @@
       </g>
       <g id="_3" data-name="3" transform="translate(-34 -1)">
         <text id="Gross_Pay:" data-name="Gross Pay:" transform="translate(598 721)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="-56.877" y="0">Gross Pay:</tspan></text>
-        <text id="NGN50_000" data-name="NGN50,000" transform="translate(887 721)" fill="#5099de" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="-63.152" y="0">NGN50,000</tspan></text>
+        <text id="NGN90_000" data-name="NGN90,000" transform="translate(887 721)" fill="#5099de" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="-63.152" y="0">NGN90,000</tspan></text>
         <line id="Line_34" data-name="Line 34" x2="454" transform="translate(555.5 738.5)" fill="none" stroke="#c7c7c7" stroke-width="1" opacity="0.22"/>
       </g>
       <g id="_4" data-name="4" transform="translate(-34 58)">
         <text id="Net_Pay:" data-name="Net Pay:" transform="translate(541 721)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">Net Pay:</tspan></text>
-        <text id="NGN50_000-2" data-name="NGN50,000" transform="translate(887 721)" fill="#5099de" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="-63.152" y="0">NGN50,000</tspan></text>
+        <text id="NGN50_000" data-name="NGN50,000" transform="translate(887 721)" fill="#5099de" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="-63.152" y="0">NGN50,000</tspan></text>
         <line id="Line_34-2" data-name="Line 34" x2="454" transform="translate(555.5 738.5)" fill="none" stroke="#c7c7c7" stroke-width="1" opacity="0.22"/>
       </g>
       <g id="_5" data-name="5" transform="translate(-34 117)">
@@ -143,8 +143,8 @@
         </g>
       </g>
       <g id="_1-2" data-name="1" transform="translate(-34 66)">
-        <text id="Selected_Hospital:" data-name="Selected Hospital:" transform="translate(543 599)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">Selected Hospital:</tspan></text>
-        <text id="XYZ_Hospital_Lagos" data-name="XYZ Hospital, Lagos" transform="translate(824 599)" fill="#5099de" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">XYZ Hospital, Lagos</tspan></text>
+        <text id="Selected_Hospital:" data-name="Selected Hospital:" transform="translate(540 599)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">Selected Hospital:</tspan></text>
+        <text id="General_Hospital_Lagos" data-name="General Hospital, Lagos" transform="translate(824 599)" fill="#5099de" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">General Hospital, Lagos</tspan></text>
         <line id="Line_32-2" data-name="Line 32" x2="454" transform="translate(551.5 618.5)" fill="none" stroke="#c7c7c7" stroke-width="1" opacity="0.22"/>
       </g>
       <g id="_2-2" data-name="2" transform="translate(-34 66)">
@@ -154,7 +154,7 @@
       </g>
       <g id="_3-2" data-name="3" transform="translate(-34 65)">
         <text id="Dependent:" transform="translate(541 721)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">Dependent:</tspan></text>
-        <text id="Mide_Olude" data-name="Mide Olude" transform="translate(824 721)" fill="#5099de" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">Mide Olude</tspan></text>
+        <text id="Edmond_Benson" data-name="Edmond Benson" transform="translate(824 721)" fill="#5099de" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">Edmond Benson</tspan></text>
         <line id="Line_34-6" data-name="Line 34" x2="454" transform="translate(555.5 738.5)" fill="none" stroke="#c7c7c7" stroke-width="1" opacity="0.22"/>
       </g>
       <g id="_4-2" data-name="4" transform="translate(-34 124)">
@@ -162,7 +162,7 @@
         <text id="AXA_Mansard-2" data-name="AXA Mansard" transform="translate(824 721)" fill="#5099de" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">AXA Mansard</tspan></text>
         <line id="Line_34-7" data-name="Line 34" x2="454" transform="translate(555.5 738.5)" fill="none" stroke="#c7c7c7" stroke-width="1" opacity="0.22"/>
       </g>
-      <text id="Medical_Benefits:" data-name="Medical Benefits:" transform="translate(510 604)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">Medical Benefits:</tspan></text>
+      <text id="Medical_Benefits:" data-name="Medical Benefits:" transform="translate(506 604)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">Medical Benefits:</tspan></text>
       <g id="_4-3" data-name="4" transform="translate(-34 292)">
         <text id="Spa_Treatment" data-name="Spa Treatment" transform="translate(577 719)" fill="#5fe3a1" font-size="20" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">Spa Treatment</tspan></text>
         <text id="view_benefit_details" data-name="view benefit details" transform="translate(825 719)" font-size="20" font-family="Nunito-Light, Nunito" font-weight="300" text-decoration="underline"><tspan x="0" y="0">view benefit details</tspan></text>
@@ -217,32 +217,32 @@
       </g>
       <g id="_3-3" data-name="3" transform="translate(-34 -1)">
         <text id="Email_Address:" data-name="Email Address:" transform="translate(551 721)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">Email Address:</tspan></text>
-        <text id="o_gmail.com" data-name="o@gmail.com" transform="translate(862 721)" fill="#5099de" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">o@gmail.com</tspan></text>
+        <text id="eddy_gmail.com" data-name="eddy@gmail.com" transform="translate(862 721)" fill="#5099de" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">eddy@gmail.com</tspan></text>
         <line id="Line_34-8" data-name="Line 34" x2="454" transform="translate(555.5 738.5)" fill="none" stroke="#c7c7c7" stroke-width="1" opacity="0.22"/>
       </g>
       <g id="_4-4" data-name="4" transform="translate(-34 58)">
         <text id="Phone_Number:" data-name="Phone Number:" transform="translate(551 721)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">Phone Number:</tspan></text>
-        <text id="_090_652_2687" data-name="090 652 2687" transform="translate(862 721)" fill="#5099de" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">090 652 2687</tspan></text>
+        <text id="_090_6522_6872" data-name="090 6522 6872" transform="translate(862 721)" fill="#5099de" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">090 6522 6872</tspan></text>
         <line id="Line_34-9" data-name="Line 34" x2="454" transform="translate(555.5 738.5)" fill="none" stroke="#c7c7c7" stroke-width="1" opacity="0.22"/>
       </g>
       <g id="_5-2" data-name="5" transform="translate(-34 117)">
         <text id="Alt._Phone_Number:" data-name="Alt. Phone Number:" transform="translate(553 721)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">Alt. Phone Number:</tspan></text>
-        <text id="_090_585_1258" data-name="090 585 1258" transform="translate(862 721)" fill="#5099de" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">090 585 1258</tspan></text>
+        <text id="_090_5851_2586" data-name="090 5851 2586" transform="translate(862 721)" fill="#5099de" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">090 5851 2586</tspan></text>
         <line id="Line_34-10" data-name="Line 34" x2="454" transform="translate(555.5 738.5)" fill="none" stroke="#c7c7c7" stroke-width="1" opacity="0.22"/>
       </g>
       <g id="_6-2" data-name="6" transform="translate(-34 176)">
-        <text id="Emergency_Contact_1:" data-name="Emergency Contact 1:" transform="translate(551 721)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">Emergency Contact 1:</tspan></text>
-        <text id="Nifemi_Olude" data-name="Nifemi Olude" transform="translate(862 721)" fill="#5099de" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">Nifemi Olude</tspan></text>
+        <text id="Next_of_Kin:" data-name="Next of Kin:" transform="translate(551 721)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">Next of Kin:</tspan></text>
+        <text id="Nifemi_Benson" data-name="Nifemi Benson" transform="translate(862 721)" fill="#5099de" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">Nifemi Benson</tspan></text>
         <line id="Line_34-11" data-name="Line 34" x2="454" transform="translate(555.5 738.5)" fill="none" stroke="#c7c7c7" stroke-width="1" opacity="0.22"/>
       </g>
       <g id="_7-3" data-name="7" transform="translate(-34 235)">
-        <text id="Next_of_Kin:" data-name="Next of Kin:" transform="translate(551 721)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">Next of Kin:</tspan></text>
+        <text id="Relationship:" transform="translate(551 721)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">Relationship:</tspan></text>
         <text id="Wife" transform="translate(862 721)" fill="#5099de" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">Wife</tspan></text>
         <line id="Line_34-12" data-name="Line 34" x2="454" transform="translate(555.5 738.5)" fill="none" stroke="#c7c7c7" stroke-width="1" opacity="0.22"/>
       </g>
       <g id="_7-4" data-name="7" transform="translate(-34 294)">
         <text id="Next_of_Kin_Phone_Number:" data-name="Next of Kin Phone Number:" transform="translate(551 721)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">Next of Kin Phone Number:</tspan></text>
-        <text id="_080_789_6352" data-name="080 789 6352" transform="translate(862 721)" fill="#5099de" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">080 789 6352</tspan></text>
+        <text id="_080_7896_3352" data-name="080 7896 3352" transform="translate(862 721)" fill="#5099de" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="0">080 7896 3352</tspan></text>
         <line id="Line_34-13" data-name="Line 34" x2="454" transform="translate(528.5 738.5)" fill="none" stroke="#c7c7c7" stroke-width="1" opacity="0.22"/>
       </g>
     </g>
@@ -295,8 +295,8 @@
       </g>
     </g>
     <g id="Name" transform="translate(-211 68)">
-      <text id="Olalekan_Olude" data-name="Olalekan Olude" transform="translate(1117 425.812)" fill="#5099de" font-size="35" font-family="Nunito-Medium, Nunito" font-weight="500"><tspan x="-121.056" y="0">Olalekan Olude</tspan></text>
-      <text id="Account_Manager" data-name="Account Manager" transform="translate(1117.271 468.105)" font-size="24" font-family="Nunito-ExtraLight, Nunito" font-weight="200"><tspan x="-93.762" y="0">Account Manager</tspan></text>
+      <text id="Edmond_Benson-2" data-name="Edmond Benson" transform="translate(1108 418.812)" fill="#5099de" font-size="35" font-family="Nunito-Medium, Nunito" font-weight="500"><tspan x="-131.464" y="0">Edmond Benson</tspan></text>
+      <text id="Account_Manager" data-name="Account Manager" transform="translate(1117.271 458.105)" font-size="24" font-family="Nunito-ExtraLight, Nunito" font-weight="200"><tspan x="-93.762" y="0">Account Manager</tspan></text>
       <g id="Group_1511" data-name="Group 1511" transform="translate(1042.782 235)">
         <ellipse id="Ellipse_70" data-name="Ellipse 70" cx="74.255" cy="74.906" rx="74.255" ry="74.906" fill="#ffe7bd"/>
         <g id="boy" transform="translate(34.061 18.953)">

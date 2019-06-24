@@ -37,11 +37,11 @@
       <feComposite operator="in" in2="blur-4"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <clipPath id="clip-Payroll_Regular_Payroll_">
+    <clipPath id="clip-Rovedana-Payroll-Dashboard">
       <rect width="1920" height="2075"/>
     </clipPath>
   </defs>
-  <g id="Payroll_Regular_Payroll_" data-name="Payroll (Regular Payroll)" clip-path="url(#clip-Payroll_Regular_Payroll_)">
+  <g id="Rovedana-Payroll-Dashboard" clip-path="url(#clip-Rovedana-Payroll-Dashboard)">
     <rect width="1920" height="2075" fill="#fbfafa"/>
     <g id="Topbar" transform="translate(-1)">
       <rect id="Rectangle_1" data-name="Rectangle 1" width="1920" height="110" fill="#fff"/>
@@ -75,7 +75,7 @@
     </g>
     <g id="Header" transform="translate(-110)">
       <text id="Run_Payroll" data-name="Run Payroll" transform="translate(350 166)" font-size="40" font-family="Nunito-SemiBold, Nunito" font-weight="600"><tspan x="0" y="39">Run Payroll</tspan></text>
-      <text id="_01_03_2019_-_30_03_2019" data-name="01/03/2019 - 30/03/2019" transform="translate(1504 189)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="23">01/03/2019 - 30/03/2019</tspan></text>
+      <text id="_01_06_2019_-_30_06_2019" data-name="01/06/2019 - 30/06/2019" transform="translate(1504 189)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="23">01/06/2019 - 30/06/2019</tspan></text>
       <path id="calendar" d="M18.489,3.711H17.433V5.822H14.266V3.711H7.933V5.822H4.767V3.711H3.711A2.116,2.116,0,0,0,1.6,5.822V18.489A2.116,2.116,0,0,0,3.711,20.6H18.489A2.117,2.117,0,0,0,20.6,18.489V5.822a2.117,2.117,0,0,0-2.111-2.111Zm0,14.777H3.711V10.044H18.489ZM7.405,1.6H5.294V5.294H7.405V1.6Zm9.5,0H14.794V5.294h2.111V1.6Z" transform="translate(1788.4 193.4)" fill="#5099de"/>
       <g id="Group_18" data-name="Group 18" transform="translate(51 51)">
         <text id="_1._Earnings_Breakdown" data-name="1. Earnings Breakdown" transform="translate(296 228.456)" fill="#5099de" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="20">1. Earnings Breakdown</tspan></text>
@@ -117,9 +117,9 @@ To pay your employees with direct deposit on Friday, June 28th, you’ll need to
             <rect id="Table_cards-6" data-name="Table cards" width="1323" height="554.516" rx="2" transform="translate(294 853)" fill="#fff"/>
           </g>
         </g>
-        <text id="Jerry_Jerry" data-name="Jerry Jerry" transform="translate(57 20)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="23">Jerry </tspan></text>
-        <text id="_45_000.00" data-name=" ₦45,000.00" transform="translate(399.438 20)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="26"> </tspan><tspan y="26" font-family="SegoeUI-Light, Segoe UI">₦</tspan><tspan y="26">45,000.00</tspan></text>
-        <text id="_65_000.00" data-name=" ₦65,000.00" transform="translate(681.438 20)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="26"> </tspan><tspan y="26" font-family="SegoeUI-Light, Segoe UI">₦</tspan><tspan y="26">65,000.00</tspan></text>
+        <text id="Edmond_Benson" data-name="Edmond Benson" transform="translate(57 20)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="23">Edmond Benson</tspan></text>
+        <text id="_90_000.00" data-name=" ₦90,000.00" transform="translate(399.438 20)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="26"> </tspan><tspan y="26" font-family="SegoeUI-Light, Segoe UI">₦</tspan><tspan y="26">90,000.00</tspan></text>
+        <text id="_80_000.00" data-name=" ₦80,000.00" transform="translate(681.438 20)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="26"> </tspan><tspan y="26" font-family="SegoeUI-Light, Segoe UI">₦</tspan><tspan y="26">80,000.00</tspan></text>
         <text id="Skip_Employee_" data-name="Skip Employee&gt;&gt;" transform="translate(970.438 25)" fill="#5099de" font-size="18" font-family="Nunito-Regular, Nunito"><tspan x="0" y="18">Skip </tspan></text>
         <text id="view_less" data-name="view less" transform="translate(1238.438 53)" fill="#f17d6b" font-size="18" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="18">view less</tspan></text>
         <text id="_add_more_fields_" data-name="+ add more fields?" transform="translate(582.438 497)" fill="#1ec4b4" font-size="18" font-family="Nunito-Regular, Nunito"><tspan x="0" y="18">+ add more fields?</tspan></text>
@@ -135,7 +135,7 @@ To pay your employees with direct deposit on Friday, June 28th, you’ll need to
               <rect x="0.5" y="0.5" width="24" height="29" fill="none"/>
             </g>
             <text id="_" data-name="₦" transform="translate(758 13.447)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="5.19" y="19">₦</tspan></text>
-            <text id="_10_000" data-name="10,000" transform="translate(789 13.447)" fill="#707070" font-size="18" font-family="Nunito-Regular, Nunito"><tspan x="0" y="18">10,00</tspan></text>
+            <text id="_10_000" data-name="10,000" transform="translate(789 13.447)" fill="#707070" font-size="18" font-family="Nunito-Regular, Nunito"><tspan x="0" y="18">10,000</tspan></text>
             <path id="cross" d="M12.881,10.443h0L8.937,6.5l3.944-3.944h0a.407.407,0,0,0,0-.574L11.018.118a.408.408,0,0,0-.574,0h0L6.5,4.062,2.556.118h0a.408.408,0,0,0-.574,0L.118,1.981a.407.407,0,0,0,0,.574h0L4.062,6.5.118,10.443h0a.412.412,0,0,0-.093.145.406.406,0,0,0,.093.429l1.863,1.863a.407.407,0,0,0,.574,0h0L6.5,8.937l3.944,3.944h0a.407.407,0,0,0,.574,0l1.863-1.863a.407.407,0,0,0,0-.574Z" transform="translate(907.001 18.448)" fill="#f16b6f"/>
             <text id="Basic:_" data-name="Basic: " transform="translate(603.438 13.447)" fill="#707070" font-size="18" font-family="Nunito-Regular, Nunito"><tspan x="0" y="18">Basic: </tspan></text>
           </g>
@@ -149,7 +149,7 @@ To pay your employees with direct deposit on Friday, June 28th, you’ll need to
               <rect x="0.5" y="0.5" width="24" height="29" fill="none"/>
             </g>
             <text id="_2" data-name="₦" transform="translate(757 13.447)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="5.19" y="19">₦</tspan></text>
-            <text id="_10_000-2" data-name="10,000" transform="translate(788 13.447)" fill="#707070" font-size="18" font-family="Nunito-Regular, Nunito"><tspan x="0" y="18">10,00</tspan></text>
+            <text id="_10_000-2" data-name="10,000" transform="translate(788 13.447)" fill="#707070" font-size="18" font-family="Nunito-Regular, Nunito"><tspan x="0" y="18">10,000</tspan></text>
             <path id="cross-2" data-name="cross" d="M12.881,10.443h0L8.937,6.5l3.944-3.944h0a.407.407,0,0,0,0-.574L11.018.118a.408.408,0,0,0-.574,0h0L6.5,4.062,2.556.118h0a.408.408,0,0,0-.574,0L.118,1.981a.407.407,0,0,0,0,.574h0L4.062,6.5.118,10.443h0a.412.412,0,0,0-.093.145.406.406,0,0,0,.093.429l1.863,1.863a.407.407,0,0,0,.574,0h0L6.5,8.937l3.944,3.944h0a.407.407,0,0,0,.574,0l1.863-1.863a.407.407,0,0,0,0-.574Z" transform="translate(906.001 18.448)" fill="#f16b6f"/>
             <text id="Transport:" transform="translate(603.438 13.447)" fill="#707070" font-size="18" font-family="Nunito-Regular, Nunito"><tspan x="0" y="18">Transport:</tspan></text>
           </g>
@@ -163,7 +163,7 @@ To pay your employees with direct deposit on Friday, June 28th, you’ll need to
               <rect x="0.5" y="0.5" width="24" height="29" fill="none"/>
             </g>
             <text id="_3" data-name="₦" transform="translate(724 13.447)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="5.19" y="19">₦</tspan></text>
-            <text id="_10_000-3" data-name="10,000" transform="translate(755 13.447)" fill="#707070" font-size="18" font-family="Nunito-Regular, Nunito"><tspan x="0" y="18">10,00</tspan></text>
+            <text id="_10_000-3" data-name="10,000" transform="translate(755 13.447)" fill="#707070" font-size="18" font-family="Nunito-Regular, Nunito"><tspan x="0" y="18">10,000</tspan></text>
             <text id="Reimbursements:" transform="translate(569.438 13.447)" fill="#707070" font-size="18" font-family="Nunito-Regular, Nunito"><tspan x="0" y="18">Reimbursem</tspan></text>
             <path id="cross-3" data-name="cross" d="M12.881,10.443h0L8.937,6.5l3.944-3.944h0a.407.407,0,0,0,0-.574L11.018.118a.408.408,0,0,0-.574,0h0L6.5,4.062,2.556.118h0a.408.408,0,0,0-.574,0L.118,1.981a.407.407,0,0,0,0,.574h0L4.062,6.5.118,10.443h0a.412.412,0,0,0-.093.145.406.406,0,0,0,.093.429l1.863,1.863a.407.407,0,0,0,.574,0h0L6.5,8.937l3.944,3.944h0a.407.407,0,0,0,.574,0l1.863-1.863a.407.407,0,0,0,0-.574Z" transform="translate(873.001 18.448)" fill="#f16b6f"/>
           </g>
@@ -177,7 +177,7 @@ To pay your employees with direct deposit on Friday, June 28th, you’ll need to
               <rect x="0.5" y="0.5" width="24" height="29" fill="none"/>
             </g>
             <text id="_4" data-name="₦" transform="translate(724 13.447)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="5.19" y="19">₦</tspan></text>
-            <text id="_10_000-4" data-name="10,000" transform="translate(755 13.447)" fill="#707070" font-size="18" font-family="Nunito-Regular, Nunito"><tspan x="0" y="18">10,00</tspan></text>
+            <text id="_10_000-4" data-name="10,000" transform="translate(755 13.447)" fill="#707070" font-size="18" font-family="Nunito-Regular, Nunito"><tspan x="0" y="18">10,000</tspan></text>
             <text id="Telephone:" transform="translate(569.438 13.447)" fill="#707070" font-size="18" font-family="Nunito-Regular, Nunito"><tspan x="0" y="18">Telephone:</tspan></text>
             <path id="cross-4" data-name="cross" d="M12.881,10.443h0L8.937,6.5l3.944-3.944h0a.407.407,0,0,0,0-.574L11.018.118a.408.408,0,0,0-.574,0h0L6.5,4.062,2.556.118h0a.408.408,0,0,0-.574,0L.118,1.981a.407.407,0,0,0,0,.574h0L4.062,6.5.118,10.443h0a.412.412,0,0,0-.093.145.406.406,0,0,0,.093.429l1.863,1.863a.407.407,0,0,0,.574,0h0L6.5,8.937l3.944,3.944h0a.407.407,0,0,0,.574,0l1.863-1.863a.407.407,0,0,0,0-.574Z" transform="translate(873.001 17.448)" fill="#f16b6f"/>
           </g>
@@ -194,7 +194,7 @@ To pay your employees with direct deposit on Friday, June 28th, you’ll need to
               <rect x="0.5" y="0.5" width="24" height="29" fill="none"/>
             </g>
             <text id="_5" data-name="₦" transform="translate(724 13.447)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="5.19" y="19">₦</tspan></text>
-            <text id="_10_000-5" data-name="10,000" transform="translate(755 13.447)" fill="#707070" font-size="18" font-family="Nunito-Regular, Nunito"><tspan x="0" y="18">10,00</tspan></text>
+            <text id="_10_000-5" data-name="10,000" transform="translate(755 13.447)" fill="#707070" font-size="18" font-family="Nunito-Regular, Nunito"><tspan x="0" y="18">10,000</tspan></text>
             <text id="Pension:" transform="translate(569.438 13.447)" fill="#707070" font-size="18" font-family="Nunito-Regular, Nunito"><tspan x="0" y="18">Pension:</tspan></text>
             <path id="cross-5" data-name="cross" d="M12.881,10.443h0L8.937,6.5l3.944-3.944h0a.407.407,0,0,0,0-.574L11.018.118a.408.408,0,0,0-.574,0h0L6.5,4.062,2.556.118h0a.408.408,0,0,0-.574,0L.118,1.981a.407.407,0,0,0,0,.574h0L4.062,6.5.118,10.443h0a.412.412,0,0,0-.093.145.406.406,0,0,0,.093.429l1.863,1.863a.407.407,0,0,0,.574,0h0L6.5,8.937l3.944,3.944h0a.407.407,0,0,0,.574,0l1.863-1.863a.407.407,0,0,0,0-.574Z" transform="translate(873.001 18.448)" fill="#f16b6f"/>
           </g>
@@ -208,7 +208,7 @@ To pay your employees with direct deposit on Friday, June 28th, you’ll need to
               <rect x="0.5" y="0.5" width="24" height="29" fill="none"/>
             </g>
             <text id="_6" data-name="₦" transform="translate(724 13.447)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="5.19" y="19">₦</tspan></text>
-            <text id="_10_000-6" data-name="10,000" transform="translate(755 13.447)" fill="#707070" font-size="18" font-family="Nunito-Regular, Nunito"><tspan x="0" y="18">10,00</tspan></text>
+            <text id="_10_000-6" data-name="10,000" transform="translate(755 13.447)" fill="#707070" font-size="18" font-family="Nunito-Regular, Nunito"><tspan x="0" y="18">10,000</tspan></text>
             <text id="Tax:" transform="translate(569.438 13.447)" fill="#707070" font-size="18" font-family="Nunito-Regular, Nunito"><tspan x="0" y="18">Tax:</tspan></text>
             <path id="cross-6" data-name="cross" d="M12.881,10.443h0L8.937,6.5l3.944-3.944h0a.407.407,0,0,0,0-.574L11.018.118a.408.408,0,0,0-.574,0h0L6.5,4.062,2.556.118h0a.408.408,0,0,0-.574,0L.118,1.981a.407.407,0,0,0,0,.574h0L4.062,6.5.118,10.443h0a.412.412,0,0,0-.093.145.406.406,0,0,0,.093.429l1.863,1.863a.407.407,0,0,0,.574,0h0L6.5,8.937l3.944,3.944h0a.407.407,0,0,0,.574,0l1.863-1.863a.407.407,0,0,0,0-.574Z" transform="translate(873.001 17.448)" fill="#f16b6f"/>
           </g>
@@ -225,7 +225,7 @@ To pay your employees with direct deposit on Friday, June 28th, you’ll need to
               <rect x="0.5" y="0.5" width="24" height="29" fill="none"/>
             </g>
             <text id="_7" data-name="₦" transform="translate(724 13.447)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="5.19" y="19">₦</tspan></text>
-            <text id="_10_000-7" data-name="10,000" transform="translate(755 13.447)" fill="#707070" font-size="18" font-family="Nunito-Regular, Nunito"><tspan x="0" y="18">10,00</tspan></text>
+            <text id="_10_000-7" data-name="10,000" transform="translate(755 13.447)" fill="#707070" font-size="18" font-family="Nunito-Regular, Nunito"><tspan x="0" y="18">10,000</tspan></text>
             <text id="NSITF:" transform="translate(569.438 13.447)" fill="#707070" font-size="18" font-family="Nunito-Regular, Nunito"><tspan x="0" y="18">NSITF:</tspan></text>
             <path id="cross-7" data-name="cross" d="M12.881,10.443h0L8.937,6.5l3.944-3.944h0a.407.407,0,0,0,0-.574L11.018.118a.408.408,0,0,0-.574,0h0L6.5,4.062,2.556.118h0a.408.408,0,0,0-.574,0L.118,1.981a.407.407,0,0,0,0,.574h0L4.062,6.5.118,10.443h0a.412.412,0,0,0-.093.145.406.406,0,0,0,.093.429l1.863,1.863a.407.407,0,0,0,.574,0h0L6.5,8.937l3.944,3.944h0a.407.407,0,0,0,.574,0l1.863-1.863a.407.407,0,0,0,0-.574Z" transform="translate(873.001 18.448)" fill="#f16b6f"/>
           </g>
@@ -239,7 +239,7 @@ To pay your employees with direct deposit on Friday, June 28th, you’ll need to
               <rect x="0.5" y="0.5" width="24" height="29" fill="none"/>
             </g>
             <text id="_8" data-name="₦" transform="translate(724 13.447)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="5.19" y="19">₦</tspan></text>
-            <text id="_10_000-8" data-name="10,000" transform="translate(755 13.447)" fill="#707070" font-size="18" font-family="Nunito-Regular, Nunito"><tspan x="0" y="18">10,00</tspan></text>
+            <text id="_10_000-8" data-name="10,000" transform="translate(755 13.447)" fill="#707070" font-size="18" font-family="Nunito-Regular, Nunito"><tspan x="0" y="18">10,000</tspan></text>
             <text id="Group_Life" data-name="Group Life" transform="translate(569.438 13.447)" fill="#707070" font-size="18" font-family="Nunito-Regular, Nunito"><tspan x="0" y="18">Group Life</tspan></text>
             <path id="cross-8" data-name="cross" d="M12.881,10.443h0L8.937,6.5l3.944-3.944h0a.407.407,0,0,0,0-.574L11.018.118a.408.408,0,0,0-.574,0h0L6.5,4.062,2.556.118h0a.408.408,0,0,0-.574,0L.118,1.981a.407.407,0,0,0,0,.574h0L4.062,6.5.118,10.443h0a.412.412,0,0,0-.093.145.406.406,0,0,0,.093.429l1.863,1.863a.407.407,0,0,0,.574,0h0L6.5,8.937l3.944,3.944h0a.407.407,0,0,0,.574,0l1.863-1.863a.407.407,0,0,0,0-.574Z" transform="translate(873.001 17.448)" fill="#f16b6f"/>
           </g>
@@ -252,9 +252,9 @@ To pay your employees with direct deposit on Friday, June 28th, you’ll need to
             <rect id="Table_cards-8" data-name="Table cards" width="1323" height="67.454" rx="2" transform="translate(294 1429.55)" fill="#fff"/>
           </g>
         </g>
-        <text id="Jerry_Jerry-2" data-name="Jerry Jerry" transform="translate(57 27)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="23">Jerry </tspan></text>
-        <text id="_45_000.00-2" data-name=" ₦45,000.00" transform="translate(399.438 27)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="26"> </tspan><tspan y="26" font-family="SegoeUI-Light, Segoe UI">₦</tspan><tspan y="26">45,000.00</tspan></text>
-        <text id="_65_000.00-2" data-name=" ₦65,000.00" transform="translate(681.438 27)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="26"> </tspan><tspan y="26" font-family="SegoeUI-Light, Segoe UI">₦</tspan><tspan y="26">65,000.00</tspan></text>
+        <text id="Abdul_Quadri" data-name="Abdul Quadri" transform="translate(57 27)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="23">Abdul Quadri</tspan></text>
+        <text id="_45_000.00" data-name=" ₦45,000.00" transform="translate(399.438 27)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="26"> </tspan><tspan y="26" font-family="SegoeUI-Light, Segoe UI">₦</tspan><tspan y="26">45,000.00</tspan></text>
+        <text id="_65_000.00" data-name=" ₦65,000.00" transform="translate(681.438 27)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="26"> </tspan><tspan y="26" font-family="SegoeUI-Light, Segoe UI">₦</tspan><tspan y="26">65,000.00</tspan></text>
         <text id="Skip_Employee" data-name="Skip Employee" transform="translate(970.438 31)" fill="#5099de" font-size="18" font-family="Nunito-Regular, Nunito"><tspan x="0" y="18">Skip </tspan></text>
         <path id="plus-2" data-name="plus" d="M21.313,8.25H13.75V.688A.688.688,0,0,0,13.063,0H8.938A.688.688,0,0,0,8.25.688V8.25H.688A.688.688,0,0,0,0,8.938v4.125a.688.688,0,0,0,.688.688H8.25v7.563A.688.688,0,0,0,8.938,22h4.125a.688.688,0,0,0,.688-.687V13.75h7.563A.688.688,0,0,0,22,13.063V8.938A.688.688,0,0,0,21.313,8.25Z" transform="translate(1262.451 28)" fill="#f16b6f"/>
       </g>
@@ -264,9 +264,9 @@ To pay your employees with direct deposit on Friday, June 28th, you’ll need to
             <rect id="Table_cards-10" data-name="Table cards" width="1323" height="67.454" rx="2" transform="translate(294 1519.55)" fill="#fff"/>
           </g>
         </g>
-        <text id="Jerry_Jerry-3" data-name="Jerry Jerry" transform="translate(57 27)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="23">Jerry </tspan></text>
-        <text id="_45_000.00-3" data-name=" ₦45,000.00" transform="translate(399.438 27)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="26"> </tspan><tspan y="26" font-family="SegoeUI-Light, Segoe UI">₦</tspan><tspan y="26">45,000.00</tspan></text>
-        <text id="_65_000.00-3" data-name=" ₦65,000.00" transform="translate(681.438 27)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="26"> </tspan><tspan y="26" font-family="SegoeUI-Light, Segoe UI">₦</tspan><tspan y="26">65,000.00</tspan></text>
+        <text id="Bibi_Ofuya" data-name="Bibi Ofuya" transform="translate(57 27)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="23">Bibi Ofuya</tspan></text>
+        <text id="_45_000.00-2" data-name=" ₦45,000.00" transform="translate(399.438 27)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="26"> </tspan><tspan y="26" font-family="SegoeUI-Light, Segoe UI">₦</tspan><tspan y="26">45,000.00</tspan></text>
+        <text id="_65_000.00-2" data-name=" ₦65,000.00" transform="translate(681.438 27)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="26"> </tspan><tspan y="26" font-family="SegoeUI-Light, Segoe UI">₦</tspan><tspan y="26">65,000.00</tspan></text>
         <text id="Skip_Employee-2" data-name="Skip Employee" transform="translate(970.438 31)" fill="#5099de" font-size="18" font-family="Nunito-Regular, Nunito"><tspan x="0" y="18">Skip </tspan></text>
         <path id="plus-3" data-name="plus" d="M21.313,8.25H13.75V.688A.688.688,0,0,0,13.063,0H8.938A.688.688,0,0,0,8.25.688V8.25H.688A.688.688,0,0,0,0,8.938v4.125a.688.688,0,0,0,.688.688H8.25v7.563A.688.688,0,0,0,8.938,22h4.125a.688.688,0,0,0,.688-.687V13.75h7.563A.688.688,0,0,0,22,13.063V8.938A.688.688,0,0,0,21.313,8.25Z" transform="translate(1262.451 28)" fill="#f16b6f"/>
       </g>
@@ -276,9 +276,9 @@ To pay your employees with direct deposit on Friday, June 28th, you’ll need to
             <rect id="Table_cards-12" data-name="Table cards" width="1323" height="67.454" rx="2" transform="translate(294 1609.55)" fill="#fff"/>
           </g>
         </g>
-        <text id="Jerry_Jerry-4" data-name="Jerry Jerry" transform="translate(57 27)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="23">Jerry </tspan></text>
-        <text id="_45_000.00-4" data-name=" ₦45,000.00" transform="translate(399.438 27)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="26"> </tspan><tspan y="26" font-family="SegoeUI-Light, Segoe UI">₦</tspan><tspan y="26">45,000.00</tspan></text>
-        <text id="_65_000.00-4" data-name=" ₦65,000.00" transform="translate(681.438 27)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="26"> </tspan><tspan y="26" font-family="SegoeUI-Light, Segoe UI">₦</tspan><tspan y="26">65,000.00</tspan></text>
+        <text id="Victor_Olomo" data-name="Victor Olomo" transform="translate(57 27)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="23">Victor Olomo</tspan></text>
+        <text id="_45_000.00-3" data-name=" ₦45,000.00" transform="translate(399.438 27)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="26"> </tspan><tspan y="26" font-family="SegoeUI-Light, Segoe UI">₦</tspan><tspan y="26">45,000.00</tspan></text>
+        <text id="_65_000.00-3" data-name=" ₦65,000.00" transform="translate(681.438 27)" font-size="24" font-family="Nunito-Light, Nunito" font-weight="300"><tspan x="0" y="26"> </tspan><tspan y="26" font-family="SegoeUI-Light, Segoe UI">₦</tspan><tspan y="26">65,000.00</tspan></text>
         <text id="Skip_Employee-3" data-name="Skip Employee" transform="translate(970.438 31)" fill="#5099de" font-size="18" font-family="Nunito-Regular, Nunito"><tspan x="0" y="18">Skip </tspan></text>
         <path id="plus-4" data-name="plus" d="M21.313,8.25H13.75V.688A.688.688,0,0,0,13.063,0H8.938A.688.688,0,0,0,8.25.688V8.25H.688A.688.688,0,0,0,0,8.938v4.125a.688.688,0,0,0,.688.688H8.25v7.563A.688.688,0,0,0,8.938,22h4.125a.688.688,0,0,0,.688-.687V13.75h7.563A.688.688,0,0,0,22,13.063V8.938A.688.688,0,0,0,21.313,8.25Z" transform="translate(1262.451 28)" fill="#f16b6f"/>
       </g>
