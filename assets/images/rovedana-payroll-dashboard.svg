@@ -49,7 +49,7 @@
         <g id="small-down" transform="translate(1513 32)">
           <path id="Path_26" data-name="Path 26" d="M8.1,11.6,2.6,6.041,4.026,4.6,8.1,8.718,12.174,4.6,13.6,6.041Z" transform="translate(-2.6 -4.6)" fill="#707070"/>
         </g>
-        <text id="Deborah" transform="translate(1453 25)" fill="#707070" font-size="14" font-family="Nunito-Regular, Nunito"><tspan x="0" y="14">Debora</tspan></text>
+        <text id="Deborah" transform="translate(1453 25)" fill="#707070" font-size="14" font-family="Nunito-Regular, Nunito"><tspan x="0" y="14">Deborah</tspan></text>
         <g id="Symbol_1" data-name="Symbol 1" transform="translate(728 -1510)">
           <rect id="tyler" width="38" height="38" rx="18" transform="translate(814 1526)" fill="url(#pattern)"/>
         </g>
@@ -86,7 +86,7 @@
         <rect id="Rectangle_1481" data-name="Rectangle 1481" width="430" height="12" rx="6" transform="translate(1328 208)" fill="#c7c7c7"/>
       </g>
     </g>
-    <g id="Add_New_Company" data-name="Add New Company" transform="translate(1352 438)">
+    <g id="Add_New_Company" data-name="Add New Company" transform="translate(1351 446)">
       <rect id="Rectangle_562" data-name="Rectangle 562" width="200" height="38" rx="2" transform="translate(72 336)" fill="#5099de"/>
       <text id="Upload_Payroll_CSV" data-name="Upload Payroll CSV" transform="translate(111 344)" fill="#fff" font-size="16" font-family="Nunito-Regular, Nunito"><tspan x="0" y="16">Upload Payroll CSV</tspan></text>
       <path id="plus" d="M8.719,3.375H5.625V.281A.281.281,0,0,0,5.344,0H3.656a.281.281,0,0,0-.281.281V3.375H.281A.281.281,0,0,0,0,3.656V5.344a.281.281,0,0,0,.281.281H3.375V8.719A.281.281,0,0,0,3.656,9H5.344a.281.281,0,0,0,.281-.281V5.625H8.719A.281.281,0,0,0,9,5.344V3.656A.281.281,0,0,0,8.719,3.375Z" transform="translate(91.451 350)" fill="#fff"/>
