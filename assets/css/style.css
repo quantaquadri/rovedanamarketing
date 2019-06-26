@@ -2262,11 +2262,16 @@ label {
 }
 
 .pricing-panel .pricing-body {
-  padding: 0 55px;
-  font-size: 15px;
+  padding: 0 50px;
+  font-size: 16px;
   font-weight: 400;
-  line-height: 38px;
+  line-height: 30px;
   text-align: left;
+  /*padding-top: 30px;*/
+}
+
+.tyl{
+  margin-bottom: 20px;
 }
 
 .pricing-panel .pricing-body ul {
